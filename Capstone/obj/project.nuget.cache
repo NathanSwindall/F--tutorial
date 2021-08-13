@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdNZv2hiJq5ZOn0LCM6kSI/tjxitX8GQUx5y6Gjy0oDUu75G65QkmfP/CTf2UATVXzLvWzYdvwh2DS+n3k60WA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nswindall\\Desktop\\Colsa Training\\F#\\Capstone\\Capstone.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nswindall\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4c9dhhWKb7ZyI2BeHFm20Gzq6ZZHpW2+sPTP6ZCVED4m8HSpLJ56d0MlADbCZg/fZ7Msbo/xwwajangan4M2eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nswindall\\Desktop\\Colsa Training\\F#\\BankAccount\\Account\\Account.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nswindall\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

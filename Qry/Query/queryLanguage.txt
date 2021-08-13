@@ -1,0 +1,10 @@
+filterby Category = 'Fantasy'
+orderby Rating desc 
+skip 5
+take 10
+
+keywords
+identifiers
+literals
+expressions
+statements

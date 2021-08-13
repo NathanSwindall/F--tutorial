@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "nbESiGbQCvayWiWvwvmGRFFVOJsm+k0VhjQn/3EB2hzgBN8J6vRmdcBO235+jV8CwyMtvPdzex+ARiZVK2xULw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\nswindall\\Desktop\\Colsa Training\\F#\\F#.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nswindall\\.nuget\\packages\\fparsec\\1.1.1\\fparsec.1.1.1.nupkg.sha512",
+    "C:\\Users\\nswindall\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\nswindall\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nswindall\\.nuget\\packages\\microsoft.netcore.targets\\1.1.2\\microsoft.netcore.targets.1.1.2.nupkg.sha512",
+    "C:\\Users\\nswindall\\.nuget\\packages\\system.console\\4.3.1\\system.console.4.3.1.nupkg.sha512",
+    "C:\\Users\\nswindall\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\nswindall\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\nswindall\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\nswindall\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
